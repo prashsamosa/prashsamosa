@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from India </h3>
-<img align="right" alt="Coding" width="200" src="https://drive.google.com/file/d/13U8D5J34OB-OnOBivs-lBLWau9nrB-XF/view?usp=drive_link">
+<img align="right" alt="Coding" width="200" src="https://drive.google.com/file/d/13U8D5J34OB-OnOBivs-lBLWau9nrB-XF/view">
 
 <div align="left">
  
