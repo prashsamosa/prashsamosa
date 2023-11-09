@@ -3,9 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from India </h3>
-<iframe align="right" alt="Coding" width="200" src="https://gifer.com/embed/fzPJ" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-<img align="right" alt="Coding" width="200" src="https://i.gifer.com/fzPJ.gif">
-
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <div align="left">
  
  🔭 I’m currently enhancing my DevOPS Skills.
