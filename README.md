@@ -5,3 +5,14 @@
 </h1>
 
 <h3 align="center">A passionate software developer from India </h3>
+<div align="center">
+ 
+ 🔭 I’m currently enhancing my DevOPS Skills.
+ 
+ 🌱 I’m currently learning **Prometheus, Tailwind, React Native Expo**
+
+ 💬 Ask me about **Node.js, React, NextJS, Kubernetes... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
+
+ 
+ 
+ </div>
