@@ -12,7 +12,5 @@
  🌱 I’m currently learning **Prometheus, Tailwind, React Native Expo**
 
  💬 Ask me about **Node.js, React, NextJS, Kubernetes... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
-
- 
- 
  </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant20nov2003&show_icons=true&locale=en&layout=compact" alt="wass08" /></p>
