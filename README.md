@@ -23,6 +23,11 @@
           <a href="https://leetcode.com/Prashant20nov2003/" target="_blank">
                <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
      </a>
+         <a>
+          <a href="https://twitter.com/BigSamosa20" target="_blank">
+               <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+     </a>
+
         
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
