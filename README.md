@@ -12,6 +12,17 @@
 
  💬 Ask me about **Node.js, React, NextJS, Kubernetes... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
  </div>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
 <div align=center>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Prashant20nov2003&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
