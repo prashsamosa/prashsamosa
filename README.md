@@ -4,6 +4,7 @@
 
 <h3 align="center">A passionate software developer from India </h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <div align="left">
  
  🔭 I’m currently enhancing my DevOPS Skills.
