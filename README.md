@@ -9,7 +9,7 @@
  
  🔭 I’m currently enhancing my DevOPS Skills.
  
- 🌱 I’m currently learning **Prometheus, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Angular 17**
 
 💬 Ask me about **Node.js, React, NextJS, Kubernetes... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
 
