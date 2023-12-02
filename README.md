@@ -6,9 +6,9 @@
 
 <div align="left">
  
- 🔭 I’m currently enhancing my NextJS Skills.
+ 🔭 I’m currently enhancing my NextJS Skills and learning **Angular**.
  
- 🌱 I’m currently learning **Angular**
+ 🌱 I know some Devops tools.
 
 💬 Ask me about **Node.js, React, NextJS, Kubernetes... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
 
