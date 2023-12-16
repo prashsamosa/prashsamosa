@@ -6,7 +6,7 @@
 
 <div align="left">
  
- 🔭 I’m currently enhancing my NextJS Skills and learning **Angular**.
+ 🔭 I’m currently enhancing my NextJS Skills and learning **Ruby on Rails**.
  
  🌱 I know some Devops tools.
 
@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nestjs,mui,tailwind,redux,redis,figma," />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,mui,tailwind,redux,redis,figma," />
     <img src="https://skillicons.dev/icons?i=go,javascript,typescript,nodejs,express,prisma,postgres,supabase,mongodb," />
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,nginx,grafana,prometheus,ansible," />
 <br>
