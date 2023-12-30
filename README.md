@@ -6,7 +6,7 @@
 
 <div align="left">
  
- 🔭 I’m currently enhancing my NextJS Skills and learning **Ruby on Rails**.
+ 🔭 I’m currently enhancing my NextJS Skills and learning **Laravel**.
  
  🌱 I know some Devops tools.
 
