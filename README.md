@@ -1,16 +1,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prashant+Bhardwaj!;" />
 </h1>
-
-<h3 align="center">A dev from India</h3>
-
 <div align="left">
  
- 🔭 I’m currently enhancing my NextJS Skills and learning **Laravel**.
+ 🔭 I’m currently learning NextJS and **Springboot**.
  
- 🌱 I know some Devops tools.
+ 🌱 I love to make stupid stuff with React and tools in its ecosystem.
 
-💬 Ask me about **Node.js, React, NextJS, Kubernetes... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
+💬 Ask me about **Node.js, React, SvelteKit... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
 
  </div>
  <div align="center"> 
@@ -27,27 +24,32 @@
     
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<h2 align="center">Languages</h2>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,redux,redis," />
-    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,nodejs,express,prisma,postgres,supabase,mongodb," />
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,nginx,grafana,prometheus,ansible," />
-<br>
+    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,nodejs,java,python" />
+<br/>
+
+<h2 align="center"> Frameworks </h2>
+ <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,svelte,astro,tailwind,expressjs,nestjs,laravel,spring" />
+<br/>
+   <h2 align="center">⚒️ Tools ⚒️</h2>
+ <div align="center">
+    <img src="https://skillicons.dev/icons?i=prisma,docker,githubactions,jenkins,nginx,ansible,redis" />
+<br/>
 </div>
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Prashant20nov2003&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Prashant20nov2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=320 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Prashant20nov2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+   <br>
+   <br>
+  <div align= center>
+  <img width=300 src="https://github-readme-stats-salesp07.vercel.app/api?username=Prashant20nov2003&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
 </div>
-
-<br/><br/>
-
-<hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
