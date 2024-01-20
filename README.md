@@ -5,7 +5,7 @@
     
  🌱 I love to make stupid stuff with React and tools in its ecosystem.
     
- 🔭 I’m currently learning NextJS and **Springboot**.
+ 🔭 I’m currently learning NextJS and **Chi**.
     
 💬 Ask me about **Node.js, React, SvelteKit... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
 
