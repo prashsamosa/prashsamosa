@@ -32,7 +32,7 @@
 
 <h2 align="center"> Frameworks </h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,svelte,tailwind,expressjs,nestjs,laravel,spring" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,expressjs,nestjs,laravel," />
 <br/>
    <h2 align="center">⚒️ Tools ⚒️</h2>
  <div align="center">
