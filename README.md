@@ -2,13 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;;" />
 </h1>
 <div align="left">
- 
- 🔭 I’m currently learning NextJS and **Springboot**.
- 
  🌱 I love to make stupid stuff with React and tools in its ecosystem.
-
+ 🔭 I’m currently learning NextJS and **Springboot**.
 💬 Ask me about **Node.js, React, SvelteKit... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
-
  </div>
  <div align="center"> 
  <a href="mailto:prashanttbhardwajj@gmail.com">
