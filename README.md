@@ -36,7 +36,7 @@
 <br/>
    <h2 align="center">⚒️ Tools ⚒️</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=prisma,docker,githubactions,jenkins,nginx,ansible,redis" />
+    <img src="https://skillicons.dev/icons?i=prisma,redis,docker,githubactions,jenkins,nginx,ansible,kubernetes" />
 <br/>
 </div>
 <br/>
