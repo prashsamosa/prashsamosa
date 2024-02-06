@@ -27,7 +27,7 @@
 <h2 align="center">Languages</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,nodejs,java,python" />
+    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,nodejs,java,python,graphql" />
 <br/>
 
 <h2 align="center"> Frameworks </h2>
