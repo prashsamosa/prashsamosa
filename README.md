@@ -3,9 +3,9 @@
 </h1>
 <div align="left">
     
- 🌱 I love to make stupid stuff with React and tools in its ecosystem.
+ 🌱  I've been coding in TypeScript and React primarily for over 8 months.
     
- 🔭 I’m currently learning NextJS and **Chi**.
+ 🔭 I’m learning Golang and Chi at the moment.
     
 💬 Ask me about **Node.js, React, SvelteKit... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
 
