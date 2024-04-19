@@ -3,7 +3,7 @@
 </h1>
 <div align="left">
     
- 🌱  I've been coding in TypeScript and React primarily for over 8 months.
+ 🌱  I've been coding in TypeScript and React primarily for over a year.
     
  🔭 I’m learning Golang and Chi at the moment.
     
@@ -27,16 +27,16 @@
 <h2 align="center">Languages</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,java,lua,graphql" />
+    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,java,lua,bash,elixir,graphql" />
 <br/>
 
 <h2 align="center"> Frameworks and Libraries</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,jest,cypress,nextjs,astro,svelte,expressjs,nestjs,tailwind,laravel,htmx" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,spring.jest,cypress,nextjs,astro,svelte,expressjs,nestjs,tailwind,laravel,htmx,elasticsearch,redux.prisma" />
 <br/>
-   <h2 align="center">⚒️ Database and other Stuff ⚒️</h2>
+   <h2 align="center">⚒️ Database and Toools ⚒️</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,neovim,prisma,rabbitmq,kafka,redux,redis,docker,ansible,githubactions,jenkins,nginx,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,neovim,rabbitmq,kafka,redis,docker,ansible,githubactions,jenkins,nginx,kubernetes" />
 <br/>
 </div>
 <br/>
