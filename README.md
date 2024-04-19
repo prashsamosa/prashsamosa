@@ -30,13 +30,13 @@
     <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,lua,graphql" />
 <br/>
 
-<h2 align="center"> Frameworks </h2>
+<h2 align="center"> Frameworks and Libraries</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,jest,nextjs,astro,svelte,tailwind,expressjs,nestjs,laravel,htmx" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,chi,jest,cypress,nextjs,astro,svelte,expressjs,nestjs,tailwind,laravel,htmx" />
 <br/>
    <h2 align="center">⚒️ Database and other Stuff ⚒️</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,neovim,prisma,rabbitmq,redux,redis,docker,githubactions,jenkins,nginx,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,neovim,prisma,rabbitmq,kafka,redux,redis,docker,ansible,githubactions,jenkins,nginx,kubernetes" />
 <br/>
 </div>
 <br/>
