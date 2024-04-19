@@ -32,7 +32,7 @@
 
 <h2 align="center"> Frameworks and Libraries</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,spring.jest,cypress,nextjs,astro,svelte,expressjs,nestjs,tailwind,laravel,htmx,elasticsearch,redux.prisma" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,spring,jest,cypress,nextjs,astro,svelte,expressjs,nestjs,tailwind,laravel,htmx,elasticsearch,redux,prisma" />
 <br/>
    <h2 align="center">⚒️ Database and Toools ⚒️</h2>
  <div align="center">
