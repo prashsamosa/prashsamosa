@@ -34,7 +34,7 @@
  <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxt,astro,pinia,redux,nodejs,express,nestjs,bootstrap,tailwindcss,materialui,spring,elasticsearch,jest,cypress" />
 <br/>
-   <h2 align="center">⚒️ Database, ORM and Toools ⚒️</h2>
+   <h2 align="center">⚒️ Database, ORM and other Tools ⚒️</h2>
  <div align="center">
     <img src="https://skillicons.dev/icons?i=vite,mysql,mongodb,postgres,sqlite,graphql,prisma,neovim,rabbitmq,kafka,redis,docker,ansible,githubactions,jenkins,nginx,kubernetes" />
 <br/>
