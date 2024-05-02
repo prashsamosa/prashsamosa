@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;;" />
 </h1>
 <div align="left">
     
@@ -32,7 +32,7 @@
 
 <h2 align="center"> Frameworks and Libraries</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i= next,react,vue,nuxt,astro,hono,node,express,Gin,nestjs,bootstrap,tailwind,elasticseacrh,grpc,jest,cypress" />
+    <img src="https://skillicons.dev/icons?i= "next,react,vue,nuxt,astro,hono,node,express,Gin,nestjs,bootstrap,tailwind,elasticseacrh,grpc,jest,cypress" />
 <br/>
    <h2 align="center">⚒️ Database, ORM and Toools ⚒️</h2>
  <div align="center">
