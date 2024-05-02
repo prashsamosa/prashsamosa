@@ -32,7 +32,7 @@
 
 <h2 align="center"> Frameworks and Libraries</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i= "next,react,vue,nuxt,astro,hono,node,express,Gin,nestjs,bootstrap,tailwind,elasticseacrh,grpc,jest,cypress" />
+    <img src="https://skillicons.dev/icons?i=next,react,vue,nuxt,astro,hono,node,express,gin,nestjs,bootstrap,tailwind,elasticseacrh,grpc,jest,cypress" />
 <br/>
    <h2 align="center">⚒️ Database, ORM and Toools ⚒️</h2>
  <div align="center">
