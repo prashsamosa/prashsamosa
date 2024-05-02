@@ -32,11 +32,11 @@
 
 <h2 align="center"> Frameworks and Libraries</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,spring,vue,nuxt,jest,cypress,nextjs,astro,svelte,expressjs,nestjs,tailwind,laravel,htmx,elasticsearch,redux,prisma" />
+    <img src="https://skillicons.dev/icons?i= next,react,vue,nuxt,astro,hono,node,express,Gin,nestjs,bootstrap,tailwind,elasticseacrh,grpc,jest,cypress" />
 <br/>
-   <h2 align="center">⚒️ Database and Toools ⚒️</h2>
+   <h2 align="center">⚒️ Database, ORM and Toools ⚒️</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,neovim,rabbitmq,kafka,redis,docker,ansible,githubactions,jenkins,nginx,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,prisma,neovim,rabbitmq,kafka,redis,docker,ansible,githubactions,jenkins,nginx,kubernetes" />
 <br/>
 </div>
 <br/>
