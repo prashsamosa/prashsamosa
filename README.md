@@ -21,18 +21,16 @@
           <a href="https://twitter.com/BigSamosa20" target="_blank">
                <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
      </a>
-    
-
 
 <h2 align="center">Languages</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,java,lua,bash,elixir,graphql" />
+    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,lua,bash,elixir,graphql" />
 <br/>
 
 <h2 align="center"> Frameworks and Libraries</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,nuxt,astro,pinia,redux,nodejs,express,nestjs,bootstrap,tailwindcss,materialui,spring,elasticsearch,jest,cypress" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,astro,pinia,redux,nodejs,express,nestjs,bootstrap,tailwindcss,materialui,elasticsearch,jest,cypress" />
 <br/>
    <h2 align="center">⚒️ Database, ORM and other Tools ⚒️</h2>
  <div align="center">
