@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;;" />
 </h1>
 <div align="left">
- 🌱  I've been coding in Node and React primarily for over a year.-->
+ 🌱  I've been coding in Node and React primarily for over a year.
 
  🔭 I’m learning Golang and Svelte at the moment.
     
