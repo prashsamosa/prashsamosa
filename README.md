@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;;" />
 </h1>
 <div align="left">
- 🌱  I've been coding in Node and React primarily for over a year.
-
+ 🌱 I've been coding in Node and React primarily for over a year.
+  <br/>
  🔭 I’m learning Golang and Svelte at the moment.
     
 💬 Ask me about **Node.js, React, Astro... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
