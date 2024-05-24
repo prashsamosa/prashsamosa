@@ -2,10 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;;" />
 </h1>
 <div align="left">
- 🌱 I've been coding in Node and React primarily for over a year.
-  <br/>
- 🔭 I’m learning Golang and Svelte at the moment.
-    
+
+🌱 I've been coding in Node and React primarily for over a year.
+
+🔭 I’m learning Golang and Svelte at the moment.
+
 💬 Ask me about **Node.js, React, Astro... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
 
  </div>
@@ -20,8 +21,11 @@
           <a href="https://twitter.com/BigSamosa20" target="_blank">
                <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
      </a>
+</div>
+<br/>
+<h2 align="center">🛠️ Skills 🛠️</h2>
 
-<h2 align="center">Languages</h2>
+<!-- <h2 align="center">Languages</h2> -->
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,lua,bash,elixir,graphql" />
