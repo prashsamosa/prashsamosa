@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;;" />
 </h1>
 <div align="left">
-    <!--🌱  I've been coding in TypeScript and React primarily for over a year.-->
+ 🌱  I've been coding in Node and React primarily for over a year.-->
 
  🔭 I’m learning Golang and Svelte at the moment.
     
@@ -21,17 +21,17 @@
                <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
      </a>
 
-<!-- <h2 align="center">Languages</h2>-->
+<h2 align="center">Languages</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,lua,bash,elixir,graphql" />
 <br/>
 
-<!--<h2 align="center"> Frameworks and Libraries</h2>-->
+<h2 align="center"> Frameworks and Libraries </h2>
  <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,vue,astro,pinia,redux,nodejs,express,nestjs,bootstrap,tailwindcss,materialui,elasticsearch,jest,cypress" />
 <br/>
-  <!-- <h2 align="center">⚒️ Database, ORM and other Tools ⚒️</h2> -->
+  <h2 align="center">⚒️ Tools and Database ⚒️</h2>
  <div align="center">
     <img src="https://skillicons.dev/icons?i=vite,mysql,mongodb,postgres,sqlite,graphql,prisma,neovim,rabbitmq,kafka,redis,docker,ansible,githubactions,jenkins,nginx,kubernetes" />
 <br/>
