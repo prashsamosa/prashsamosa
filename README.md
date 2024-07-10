@@ -37,7 +37,7 @@
 <br/>
   <h2 align="center">⚒️ Tools and Database ⚒️</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=vite,mysql,mongodb,postgres,sqlite,graphql,prisma,neovim,rabbitmq,kafka,redis,docker,ansible,githubactions,jenkins,nginx,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=vite,mysql,mongodb,postgres,sqlite,graphql,prisma,neovim,rabbitmq,kafka,redis,docker,terraform,ansible,githubactions,jenkins,nginx,kubernetes,aws" />
 <br/>
 </div>
 <br/>
