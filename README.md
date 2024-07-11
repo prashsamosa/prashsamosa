@@ -1,7 +1,22 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;;" />
 </h1>
+
+
+
+<!-- <div style="text-align: center;">
+    <img src="/IamProgrammerEnglish.png" alt="Cube Architecture" width="500" height="300">
+</div> -->
+
+
+
+<div style="display: block; margin: auto; max-width: 80%;">
+  <img src="/IamProgrammerEnglish.png" alt="Cube Architecture" style="width: 100%; height: auto;">
+</div>
+
+
 <div align="left">
+<h2>👨‍💻 About Me</h2>
 
 🌱 I've been coding in Node and React primarily for over a year.
 
