@@ -10,9 +10,9 @@
 
 
 
-<div style="display: block; margin: auto; max-width: 80%;">
-  <img src="/IamProgrammerEnglish.png" alt="Cube Architecture" style="width: 50%; height: auto;">
-</div>
+<p align="center">
+  <img src="IamProgrammerEnglish.png" width="600" alt="Cube Architecture">
+</p>
 
 
 <div align="left">
