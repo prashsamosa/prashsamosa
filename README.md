@@ -11,7 +11,7 @@
 
 
 <div style="display: block; margin: auto; max-width: 80%;">
-  <img src="/IamProgrammerEnglish.png" alt="Cube Architecture" style="width: 100%; height: auto;">
+  <img src="/IamProgrammerEnglish.png" alt="Cube Architecture" style="width: 50%; height: auto;">
 </div>
 
 
