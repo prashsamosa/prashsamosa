@@ -2,17 +2,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;;" />
 </h1>
 
-<p align="center">
-  <img src="IamProgrammerEnglish.png" width="600" alt="Cube Architecture">
-</p>
+
 
 
 <div align="left">
+
+
 <h2>👨‍💻 About Me</h2>
+
+<p align="left">
+  <img src="IamProgrammerEnglish.png" width="450" alt="Cube Architecture">
+</p>
+
 
 🌱 I've been coding in Node and React primarily for over a year.
 
-🔭 I’m learning Golang and Svelte at the moment.
+🔭 I’m learning Golang and Sveltekit at the moment.
 
 💬 Ask me about **Node.js, React, Astro... or anything [here](https://github.com/Prashant20nov2003/Prashant20nov2003/issues)**
 
@@ -30,20 +35,20 @@
      </a>
 </div>
 <br/>
-<h2 align="center">🛠️ Skills 🛠️</h2>
+<h2 align="left">🛠️ Skills 🛠️</h2>
 
 <!-- <h2 align="center">Languages</h2> -->
 
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,lua,bash,elixir,graphql" />
 <br/>
 
-<h2 align="center"> Frameworks and Libraries </h2>
- <div align="center">
+<h2 align="left"> Frameworks and Libraries </h2>
+ <div align="left">
     <img src="https://skillicons.dev/icons?i=nextjs,react,vue,astro,pinia,redux,nodejs,express,nestjs,bootstrap,tailwindcss,materialui,elasticsearch,jest,cypress" />
 <br/>
-  <h2 align="center">⚒️ Tools and Database ⚒️</h2>
- <div align="center">
+  <h2 align="left">⚒️ Tools and Database ⚒️</h2>
+ <div align="left">
     <img src="https://skillicons.dev/icons?i=vite,mysql,mongodb,postgres,sqlite,graphql,prisma,neovim,rabbitmq,kafka,redis,docker,terraform,githubactions,jenkins,nginx,kubernetes,aws,ansible" />
 <br/>
 </div>
