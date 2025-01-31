@@ -52,7 +52,7 @@
 <br/>
   <h2 align="center">⚒️ Tools and Database ⚒️</h2>
  <div align="center">
-    <img src="https://skillicons.dev/icons?i=vite,mysql,mongodb,postgres,sqlite,graphql,prisma,neovim,rabbitmq,kafka,redis,docker,terraform,githubactions,jenkins,nginx,kubernetes,aws,-ansible" />
+    <img src="https://skillicons.dev/icons?i=vite,mysql,mongodb,postgres,sqlite,graphql,prisma,neovim,rabbitmq,kafka,redis,docker,terraform,githubactions,jenkins,nginx,kubernetes,aws,ansible" />
 <br/>
 </div>
 <br/>
