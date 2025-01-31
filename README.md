@@ -2,14 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;;" />
 </h1>
 
-
-
-<!-- <div style="text-align: center;">
-    <img src="/IamProgrammerEnglish.png" alt="Cube Architecture" width="500" height="300">
-</div> -->
-
-
-
 <p align="center">
   <img src="IamProgrammerEnglish.png" width="600" alt="Cube Architecture">
 </p>
