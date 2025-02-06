@@ -30,29 +30,21 @@
      </a>
 </div>
 <br/>
-<h2 align="left">🛠️ Skills 🛠️</h2>
 
-<!-- <h2 align="center">Languages</h2> -->
-
+<h2 align="left">🛠️ What I Use Daily</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,lua,bash,elixir,graphql" />
+    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,lua,bash,htmx,nodejs,react,next,express,tailwind,astro,prisma,postgres,sqlite,neovim,docker,cloudflare,nginx" width="650" />
 <br/>
-
-<h2 align="left"> Frameworks and Libraries </h2>
- <div align="left">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,astro,pinia,redux,nodejs,express,nestjs,bootstrap,tailwindcss,materialui,elasticsearch,jest,cypress" />
-<br/>
-  <h2 align="left">⚒️ Tools and Database ⚒️</h2>
- <div align="left">
-    <img src="https://skillicons.dev/icons?i=vite,mysql,mongodb,postgres,sqlite,graphql,prisma,neovim,rabbitmq,kafka,redis,docker,terraform,githubactions,jenkins,nginx,kubernetes,aws,ansible" />
-<br/>
+<h2 align="left">⚒️ Other Tools I Worked With </h2>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,pinia,redux,nodejs,express,nestjs,bootstrap,tailwindcss,materialui,elasticsearch,jest,cypress,graphql,elixir,mongodb,rabbitmq,kafka,terraform,githubactions,jenkins,nginx,kubernetes,aws,ansible" width="600"/>
 </div>
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 15px;">
-<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Prashant20nov2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Prashant20nov2003&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width=290 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Prashant20nov2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=290 src="https://github-readme-stats-salesp07.vercel.app/api?username=Prashant20nov2003&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
 </div>
 
