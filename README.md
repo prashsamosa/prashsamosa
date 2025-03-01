@@ -35,14 +35,14 @@
 
 ## 🛠️ What I Use Daily
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=go,javascript,typescript,python,lua,bash,htmx,nodejs,react,next,express,tailwind,astro,prisma,postgres,sqlite,neovim,docker,cloudflare,nginx" width="650" />
+    <img src="https://skillicons.dev/icons?i=go,rails,javascript,typescript,python,lua,bash,nodejs,react,next,express,tailwind,astro,prisma,postgres,sqlite,neovim,docker,cloudflare,nginx" width="650" />
 </div>
 
 ---
 
 ## ⚒️ Other Tools I've Worked With
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,pinia,redux,nestjs,bootstrap,materialui,elasticsearch,jest,cypress,graphql,elixir,mongodb,rabbitmq,kafka,terraform,githubactions,jenkins,kubernetes,aws,ansible" width="600"/>
+    <img src="https://skillicons.dev/icons?i=vue,pinia,redux,nestjs,bootstrap,materialui,elasticsearch,jest,cypress,graphql,elixir,mongodb,rabbitmq,kafka,terraform,githubactions,jenkins,kubernetes,aws" width="600"/>
 </div>
 
 ---
@@ -50,7 +50,7 @@
 ## ⚡ GitHub Stats
 <div align="center">
   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant20nov2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=Prashant20nov2003&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub Stats" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=Prashant20nov2003&count_private=true&show_icons=true&theme=react&border_radius=10"/>
 </div>
 
 ---
