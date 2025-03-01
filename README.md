@@ -50,8 +50,8 @@
 ## ⚡ GitHub Stats
 <div align="center">
   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant20nov2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-  <g width=400 src="https://github-readme-stats.vercel.app/api?username=Prashant20nov2003&count_private=true&show_icons=true&theme=react&border_radius=10&hide_rank=true&hide_title=true" alt="GitHub Stats" />
-</div>im
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=Prashant20nov2003&count_private=true&show_icons=true&theme=react&border_radius=10&hide_rank=true&hide_title=true" alt="GitHub Stats" />
+</div>
 
 ---
 
