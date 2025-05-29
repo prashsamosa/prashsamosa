@@ -22,7 +22,8 @@
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-State--management-000000?style=for-the-badge&logoColor=white" />
+
 <!--    <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" /> -->
 <!--    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /> -->
 <!--    <img src="https://img.shields.io/badge/Pinia-FFD700?style=for-the-badge&logo=pinia&logoColor=white" /> -->
