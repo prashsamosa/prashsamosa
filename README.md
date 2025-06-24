@@ -22,15 +22,12 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Astro-0D1117?style=flat&logo=astro&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=flat&logo=reactrouter&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Router_v7-CA4245?style=flat&logo=reactrouter&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
 
 ### Backend & APIs
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Phoenix-FF6600?style=flat&logo=phoenixframework&logoColor=white" />
 <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot" />
 <!-- <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
@@ -40,18 +37,17 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> -->
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" />
 
-<!-- ### Data Science & Machine Learning 
-### Data Science
+### Data Science & Machine Learning
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Shiny-75AADB?style=flat&logo=r&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Shiny-75AADB?style=flat&logo=r&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white" /> -->
 
 ### State Management
@@ -68,6 +64,14 @@
 <!-- <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+
+### Basic Knowledge & Hands-On Experience
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" />
+<img src="https://img.shields.io/badge/Phoenix-FF6600?style=flat&logo=phoenixframework&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=flat&logoColor=white" />
 
 <!-- ### Testing & Message Queues
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
