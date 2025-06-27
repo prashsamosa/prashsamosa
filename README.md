@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/Astro-0D1117?style=flat&logo=astro&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack_Router-FF6B35?style=flat&logo=reactrouter&logoColor=white" />
 
 ### Backend & APIs
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
