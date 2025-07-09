@@ -6,9 +6,9 @@
 
 ---
 
-## Tech Stack
+## Stuff I'm Familiar With
 
-### Languages
+### Languages I Code In
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
 
-### Frontend & UI Frameworks
+### Frontend Stuff
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/TanStack_Router-FF6B35?style=flat&logo=tanstackrouter&logoColor=white" />
 
-### Backend & APIs
+### Backend & API Things
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
@@ -35,12 +35,12 @@
 <!-- <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" /> -->
 
-### Databases
+### Databases I Use
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> -->
 
-### Data Science & Machine Learning
+### Data Science & ML Tools
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" />
@@ -55,6 +55,7 @@
 ### State Management
 <img src="https://img.shields.io/badge/Zustand-2D3748?style=flat&logo=zustand&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/XState--Store-2C3E50?style=flat&logo=xstate&logoColor=white" />
 
 <!-- ### DevOps & Infrastructure -->
 
@@ -67,7 +68,7 @@
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
 
-### Basic Knowledge & Hands-On Experience
+### Other Cool Stuff I've Played With
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
@@ -81,12 +82,12 @@
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" /> -->
 
-### Development Tools
+### My Editor of Choice
 <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat&logo=neovim&logoColor=white" />
 
 ---
 
-## Connect with Me
+## Let's Connect
 
 <div align="center">
   <a href="mailto:prashanttbhardwajj@gmail.com">
