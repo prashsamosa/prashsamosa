@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/Astro-0D1117?style=flat&logo=astro&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/TanStack_Router-FF6B35?style=flat&logo=tanstackrouter&logoColor=white" />
 
 ### Backend & API Things
@@ -74,7 +73,6 @@
 <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" />
 <img src="https://img.shields.io/badge/Phoenix-FF6600?style=flat&logo=phoenixframework&logoColor=white" />
-<img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=flat&logoColor=white" />
 
 <!-- ### Testing & Message Queues
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
