@@ -14,24 +14,24 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> -->
 
 ### Frontend Stuff
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<!-- <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" /> -->
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Astro-0D1117?style=flat&logo=astro&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Router_v7-CA4245?style=flat&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/TanStack_Router-FF6B35?style=flat&logo=tanstackrouter&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/TanStack_Router-FF6B35?style=flat&logo=tanstackrouter&logoColor=white" /> -->
 
 ### Backend & API Things
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot" />
+<!-- <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot" /> -->
 <!-- <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" /> -->
 
