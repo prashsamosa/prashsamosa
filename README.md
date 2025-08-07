@@ -1,19 +1,19 @@
-<!-- README.md -->
+<div align="left">
 
-<div align="center">
-  <img src="mario.gif" width="280" alt="Pixel Mario Coding" />
-</div>
-
----
-
-# 👋 Hey, I'm Prashant  
-I love building things with **TypeScript**, **Python**, **Go** — and sometimes **Elixir** just for fun.
+<p align="left">
+  <img src="mario.gif" width="350" alt="Developer Mario">
+</p>
 
 ---
 
-## 🧠 Stuff I Know
+## 👋 Hey, I'm Prashant  
+I love building things with TypeScript, Python, Go — and sometimes Elixir just for fun.
 
-### 🗣️ Languages  
+---
+
+## 🚀 Stuff I'm Familiar With
+
+### 🗣️ Languages I Code In  
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
@@ -21,7 +21,7 @@ I love building things with **TypeScript**, **Python**, **Go** — and sometimes
 
 ---
 
-### 🎨 Frontend  
+### 🎨 Frontend Stuff  
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Astro-0D1117?style=flat&logo=astro&logoColor=white" />
@@ -32,7 +32,7 @@ I love building things with **TypeScript**, **Python**, **Go** — and sometimes
 
 ---
 
-### 🛠️ Backend & APIs  
+### 🛠️ Backend & API Things  
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
@@ -40,13 +40,13 @@ I love building things with **TypeScript**, **Python**, **Go** — and sometimes
 
 ---
 
-### 🧱 Databases  
+### 🧱 Databases I Use  
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
 
 ---
 
-### 📊 Data Science / ML  
+### 📊 Data Science & ML Tools  
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" />
@@ -66,7 +66,7 @@ I love building things with **TypeScript**, **Python**, **Go** — and sometimes
 
 ---
 
-### ☁️ DevOps & Infra  
+### ☁️ Cloud 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
@@ -74,10 +74,10 @@ I love building things with **TypeScript**, **Python**, **Go** — and sometimes
 
 ---
 
-### 🧪 Cool Stuff I've Tinkered With  
+### 🧪 Other Cool Stuff I've Played With  
 <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" />
 <img src="https://img.shields.io/badge/Phoenix-FF6600?style=flat&logo=phoenixframework&logoColor=white" />
 <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat&logo=neovim&logoColor=white" />
 
----
+</div>
