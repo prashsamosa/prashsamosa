@@ -4,12 +4,12 @@
   <img src="mario.gif" width="350" alt="Developer Mario">
 </p>
 
----
+
 
 ## 👋 Hey, I'm Prashant  
 I love building things with TypeScript, Python, Go — and sometimes Elixir just for fun.
 
----
+
 
 ## 🚀 Stuff I'm Familiar With
 
@@ -19,7 +19,7 @@ I love building things with TypeScript, Python, Go — and sometimes Elixir just
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" />
 
-<hr />
+
 
 ### 🎨 Frontend Stuff  
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -30,7 +30,7 @@ I love building things with TypeScript, Python, Go — and sometimes Elixir just
 <img src="https://img.shields.io/badge/React_Router_v7-CA4245?style=flat&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=flat&logo=tanstack&logoColor=white" />
 
-<hr />
+
 
 ### 🛠️ Backend & API Things  
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
@@ -38,13 +38,12 @@ I love building things with TypeScript, Python, Go — and sometimes Elixir just
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" />
 
-<hr />
+
 
 ### 🧱 Databases I Use  
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
 
-<hr />
 
 ### 📊 Data Science & ML Tools  
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -57,14 +56,13 @@ I love building things with TypeScript, Python, Go — and sometimes Elixir just
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white" />
 
-<hr />
 
 ### ⚙️ State Management  
 <img src="https://img.shields.io/badge/Zustand-2D3748?style=flat&logo=zustand&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/XState--Store-2C3E50?style=flat&logo=xstate&logoColor=white" />
 
-<hr />
+
 
 ### ☁️ Cloud 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -72,7 +70,7 @@ I love building things with TypeScript, Python, Go — and sometimes Elixir just
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
 
-<hr />
+
 
 ### 🧪 Other Cool Stuff I've Played With  
 <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
