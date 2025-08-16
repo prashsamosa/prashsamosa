@@ -8,13 +8,13 @@ building things with TypeScript, Python, Go — and sometimes Elixir just for fu
 
 ## 🚀 Stuff I'm Familiar With
 
-### 🗣️ Languages I Code In  
+### Languages I Code In  
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" />
 
-### 🎨 Frontend Stuff  
+### Frontend Stuff  
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Astro-0D1117?style=flat&logo=astro&logoColor=white" />
@@ -22,30 +22,28 @@ building things with TypeScript, Python, Go — and sometimes Elixir just for fu
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
 
 
-### 🛠️ Backend & API Things  
+### State Management  
+<img src="https://img.shields.io/badge/Zustand-2D3748?style=flat&logo=zustand&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/XState--Store-2C3E50?style=flat&logo=xstate&logoColor=white" />
+
+
+
+### Backend & API Things  
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white" />
-
-
-### 🧱 Databases I Use  
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
 
 
-### 📊 Data Science & ML Tools  
+### Data Science & ML Tools  
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 
-
-### ⚙️ State Management  
-<img src="https://img.shields.io/badge/Zustand-2D3748?style=flat&logo=zustand&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/XState--Store-2C3E50?style=flat&logo=xstate&logoColor=white" />
 
 ### ☁️ Cloud 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
