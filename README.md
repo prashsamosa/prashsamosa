@@ -4,8 +4,7 @@
   <img src="mario.gif" width="350" alt="Developer Mario">
 </p>
 
-## 👋 Hey, I'm Prashant  
-I love building things with TypeScript, Python, Go — and sometimes Elixir just for fun.
+building things with TypeScript, Python, Go — and sometimes Elixir just for fun.
 
 ## 🚀 Stuff I'm Familiar With
 
