@@ -6,9 +6,8 @@
 
 building things with TypeScript, Python, Go — and sometimes Elixir just for fun.
 
-## 🚀 Stuff I'm Familiar With
 
-### Languages I Code In  
+### I Code In  
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
