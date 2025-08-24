@@ -3,11 +3,8 @@
 <p align="left">
   <img src="mario.gif" width="350" alt="Developer Mario">
 </p>
-
 building things with TypeScript, Python, Go — and sometimes Elixir just for fun.
-
-
-### I Code In  
+---
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
@@ -19,13 +16,9 @@ building things with TypeScript, Python, Go — and sometimes Elixir just for fu
 <img src="https://img.shields.io/badge/Astro-0D1117?style=flat&logo=astro&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" />
-
-
-### State Management  
 <img src="https://img.shields.io/badge/Zustand-2D3748?style=flat&logo=zustand&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/XState--Store-2C3E50?style=flat&logo=xstate&logoColor=white" />
-
 
 
 ### Backend & API Things  
@@ -48,7 +41,7 @@ building things with TypeScript, Python, Go — and sometimes Elixir just for fu
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" /> -->
 
 
 ### 🧪 Other Cool Stuff I've Played With  
