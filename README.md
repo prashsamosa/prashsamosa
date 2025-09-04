@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" />
 
-### Stuff I am familiar with
+#### Stuff I am familiar with
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Astro-0D1117?style=flat&logo=astro&logoColor=white" />
@@ -31,13 +31,14 @@
 <img src="https://img.shields.io/badge/Polars-CD792C?style=flat&logo=polars&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 
-### ☁️ Cloud 
+#### ☁️ Cloud 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" /> -->
 
-### 🧪 Other Cool Stuff I've Played With  
+<!-- ### 🧪 Other Cool Stuff I've Played With  -->
+#### Other Cool Stuff I've Played With  
 <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" />
 <img src="https://img.shields.io/badge/Phoenix-FF6600?style=flat&logo=phoenixframework&logoColor=white" />
