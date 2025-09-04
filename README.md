@@ -1,10 +1,10 @@
 <div align="left">
 
-<!-- <p align="left">
+ <p align="left">
   <img src="mario.gif" width="350" alt="Developer Mario">
 </p>
 
-building things with TypeScript, Python, Go and sometimes Elixir just for fun. -->
+<!-- building things with TypeScript, Python, Go and sometimes Elixir just for fun. -->
 
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
