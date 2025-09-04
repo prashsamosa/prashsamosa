@@ -1,6 +1,6 @@
-<!-- <div align="left">
+<div align="left">
 
-<p align="left">
+<!-- <p align="left">
   <img src="mario.gif" width="350" alt="Developer Mario">
 </p>
 
